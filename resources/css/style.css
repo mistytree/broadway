@@ -9,14 +9,14 @@ body {
   background-size: cover;
 }
 
-h1 {
-  font-size: 70px;
-  font-weight: bold;
-}
-
 a {
   color: White;
   font-size: 18px;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
 }
 
 h2 {
