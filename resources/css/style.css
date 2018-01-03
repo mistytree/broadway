@@ -15,6 +15,7 @@ h1 {
 }
 
 a {
+  color: White;
   font-size: 18px;
 }
 
@@ -49,4 +50,8 @@ p {
 
 h4 {
   font-size: 11px;
+}
+
+.footer a {
+  font-weight: normal;
 }
